@@ -1,0 +1,15 @@
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\bin\Debug\net6.0\CodeBlockshem.exe
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\bin\Debug\net6.0\CodeBlockshem.deps.json
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\bin\Debug\net6.0\CodeBlockshem.runtimeconfig.json
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\bin\Debug\net6.0\CodeBlockshem.dll
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\bin\Debug\net6.0\CodeBlockshem.pdb
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.csproj.AssemblyReference.cache
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.AssemblyInfoInputs.cache
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.AssemblyInfo.cs
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.csproj.CoreCompileInputs.cache
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.dll
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\refint\CodeBlockshem.dll
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.pdb
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\CodeBlockshem.genruntimeconfig.cache
+C:\Users\Epice\Desktop\controlnay\CodeBlockshem\obj\Debug\net6.0\ref\CodeBlockshem.dll
